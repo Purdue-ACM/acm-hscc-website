@@ -1,5 +1,5 @@
 # acm-hscc
-ACM High School Coding Competition Website
+ACM High School Coding Competition Website (Adopted from Nicki Ogg)
 
 ### Issues
 [![Stories in Ready](https://badge.waffle.io/oggnik/acm-hscc.svg?label=ready&title=Ready)](http://waffle.io/oggnik/acm-hscc)
